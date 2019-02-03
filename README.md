@@ -1,2 +1,2 @@
 # shellLauncherJava
-Simple shell script launcher from resources in Java
+This java class will launch a shell script from within the resources folder
